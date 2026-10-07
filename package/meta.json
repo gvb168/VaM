@@ -1,0 +1,21 @@
+{
+  "licenseType": "CC BY-SA",
+  "creatorName": "Gleb",
+  "packageName": "CharacterRouter",
+  "standardReferenceVersionOption": "Latest",
+  "scriptReferenceVersionOption": "Exact",
+  "description": "CharacterRouter v275: keep 2B-SC6 and 2B-Kaine external hair CUAs at their measured head-local anchors when the Person pose changes; retains the v274 skirt material restoration.",
+  "credits": "Designed for Gleb's modular VaM scene-constructor. Scene appearance extraction/filtering adapted from VaM Backstage by cyberpunk2073 (MIT). Cross-gender hair bank enabling adapted from Stopper.CrossGenderHair by Stopper (CC BY). BODY head/body split geometry and neck falloff adapted from Skynet.MorphMergeAndSplit.3 by Skynet (CC BY). Third-party notices included with the script. Base Extra 02 source hair by ICannotDie from ICannotDie.Pubic_Hair.2 (CC BY-SA). v206 preserves the working Female scalp_F_pubic / DAZSkinWrapStore path and regularizes only the 131 RuntimeHair root bindings. VAB mesh/root structure for this experiment was independently extracted from the supplied VaM hair assets; Vkit public documentation/release notes were used as a format-reference cross-check, but no Vkit source code is redistributed. v207 adds a kNN shape-preserving root assignment experiment built from extracted VAB mesh/root metadata; no external code is redistributed. v208 independently parses the tested DAZSkinWrapStore fixed records and RuntimeHairGeometryCreator sparse/flat guide layout to modify guide geometry without redistributing external parser code.",
+  "instructions": "Install v275 and restart VaM. Add 2B-SC6 and load a different Pose Preset; verify that the external hair stays aligned to the head. Then remove and add the character again.",
+  "programVersion": "1.22.0.3",
+  "contentList": [
+    "Custom/Scripts/Gleb/CharacterRouter"
+  ],
+  "dependencies": {},
+  "customOptions": {
+    "preloadMorphs": "false"
+  },
+  "hadReferenceIssues": "false",
+  "referenceIssues": [],
+  "version": "275"
+}

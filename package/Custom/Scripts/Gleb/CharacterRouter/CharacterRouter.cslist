@@ -1,0 +1,15 @@
+CharacterRouter.cs
+ExternalHairAdapter.cs
+DecalMakerAdapter.cs
+SceneCuaAccessoryAdapter.cs
+SceneMorphParityAdapter.cs
+ModelPluginAdapter.cs
+HeadTrackingAdapter.cs
+NativeFutanariAdapter.cs
+NativeFutanariHairAdapter.cs
+AltFutaAdapter.cs
+LookSexTransitionAdapter.cs
+AltFutaHairAdapter.cs
+QdaroProbe.cs
+BodyMorphSplit.cs
+BodyPresetAdapter.cs
